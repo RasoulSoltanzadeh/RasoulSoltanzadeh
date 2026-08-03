@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Tower_of_hanoi\Tower_of_hanoi\obj\Debug\Tower_of_hanoi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Tower_of_hanoi\Tower_of_hanoi\obj\Debug\Tower_of_hanoi.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Tower_of_hanoi\Tower_of_hanoi\obj\Debug\Tower_of_hanoi.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Tower_of_hanoi\Tower_of_hanoi\obj\Debug\Tower_of_hanoi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Tower_of_hanoi\Tower_of_hanoi\bin\Debug\Tower_of_hanoi.exe.config
+C:\Users\Lenovo\source\repos\Tower_of_hanoi\Tower_of_hanoi\bin\Debug\Tower_of_hanoi.exe
+C:\Users\Lenovo\source\repos\Tower_of_hanoi\Tower_of_hanoi\bin\Debug\Tower_of_hanoi.pdb
+C:\Users\Lenovo\source\repos\Tower_of_hanoi\Tower_of_hanoi\obj\Debug\Tower_of_hanoi.exe
+C:\Users\Lenovo\source\repos\Tower_of_hanoi\Tower_of_hanoi\obj\Debug\Tower_of_hanoi.pdb
+C:\Users\Lenovo\source\repos\Tower_of_hanoi\Tower_of_hanoi\obj\Debug\Tower_of_hanoi.FrmHanoi_Ctrl.resources
+C:\Users\Lenovo\source\repos\Tower_of_hanoi\Tower_of_hanoi\obj\Debug\Tower_of_hanoi.exe.config
