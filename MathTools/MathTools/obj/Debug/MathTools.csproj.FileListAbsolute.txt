@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\MathTools\MathTools\bin\Debug\MathTools.exe.config
+C:\Users\Lenovo\source\repos\MathTools\MathTools\bin\Debug\MathTools.exe
+C:\Users\Lenovo\source\repos\MathTools\MathTools\bin\Debug\MathTools.pdb
+C:\Users\Lenovo\source\repos\MathTools\MathTools\obj\Debug\MathTools.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MathTools\MathTools\obj\Debug\MathTools.Form1.resources
+C:\Users\Lenovo\source\repos\MathTools\MathTools\obj\Debug\MathTools.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\MathTools\MathTools\obj\Debug\MathTools.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\MathTools\MathTools\obj\Debug\MathTools.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MathTools\MathTools\obj\Debug\MathTools.exe
+C:\Users\Lenovo\source\repos\MathTools\MathTools\obj\Debug\MathTools.pdb
+C:\Users\Lenovo\source\repos\MathTools\MathTools\obj\Debug\MathTools.exe.config
